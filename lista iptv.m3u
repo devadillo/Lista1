@@ -1,0 +1,483 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LA 1 ES" tvg-name="LA 1 FHD ES" tvg-logo="http://showflix.org:5890/images/4137bdf771231988759a172612df7af0.png" group-title="SPAIN TNT ",LA 1 FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/780
+#EXTINF:-1 tvg-id="LA 1 ES" tvg-name="LA 1 ES" tvg-logo="http://showflix.art:5890/images/4137bdf771231988759a172612df7af0.png" group-title="SPAIN TNT ",LA 1 ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/781
+#EXTINF:-1 tvg-id="LA 2 ES" tvg-name="LA 2 FHD ES" tvg-logo="http://showflix.org:5890/images/e5be64fff362b16804c63be9b0fa0266.png" group-title="SPAIN TNT ",LA 2 FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/782
+#EXTINF:-1 tvg-id="LA 2 ES" tvg-name=" LA 2 ES" tvg-logo="http://showflix.org:5890/images/e5be64fff362b16804c63be9b0fa0266.png" group-title="SPAIN TNT ", LA 2 ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/783
+#EXTINF:-1 tvg-id="Antena 3 ES" tvg-name="ANTENA 3 FHD ES" tvg-logo="http://showflix.org:5890/images/6593d7b12fd418cdb35bbf438de72f66.png" group-title="SPAIN TNT ",ANTENA 3 FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/784
+#EXTINF:-1 tvg-id="Antena 3 ES" tvg-name="ANTENA 3 ES" tvg-logo="http://showflix.org:5890/images/6593d7b12fd418cdb35bbf438de72f66.png" group-title="SPAIN TNT ",ANTENA 3 ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/785
+#EXTINF:-1 tvg-id="Cuatro ES" tvg-name="CUATRO FHD ES" tvg-logo="http://showflix.org:5890/images/b713e6323a68d3ddabf4855826c50148.png" group-title="SPAIN TNT ",CUATRO FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/786
+#EXTINF:-1 tvg-id="Cuatro ES" tvg-name="CUATRO ES" tvg-logo="http://showflix.org:5890/images/b713e6323a68d3ddabf4855826c50148.png" group-title="SPAIN TNT ",CUATRO ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/787
+#EXTINF:-1 tvg-id="Telecinco ES" tvg-name="TELECINCO FHD ES" tvg-logo="http://showflix.org:5890/images/23f1fb3af33b5ebaffc935047c7bd61c.png" group-title="SPAIN TNT ",TELECINCO FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/788
+#EXTINF:-1 tvg-id="Telecinco ES" tvg-name="TELECINCO ES" tvg-logo="http://showflix.org:5890/images/23f1fb3af33b5ebaffc935047c7bd61c.png" group-title="SPAIN TNT ",TELECINCO ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/789
+#EXTINF:-1 tvg-id="La Sexta ES" tvg-name="LA SEXTA FHD ES" tvg-logo="http://showflix.org:5890/images/a27399a6d9d39fae03a991f0f1c13ef5.png" group-title="SPAIN TNT ",LA SEXTA FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/790
+#EXTINF:-1 tvg-id="La Sexta ES" tvg-name="LA SEXTA ES" tvg-logo="http://showflix.org:5890/images/a27399a6d9d39fae03a991f0f1c13ef5.png" group-title="SPAIN TNT ",LA SEXTA ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/791
+#EXTINF:-1 tvg-id="Neox ES" tvg-name="NEOX ES" tvg-logo="http://i5.satexpat.com/cha/es/neox_80x21.gif" group-title="SPAIN TNT ",NEOX ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/792
+#EXTINF:-1 tvg-id="Nova ES" tvg-name="NOVA ES" tvg-logo="http://showflix.org:5890/images/616496085a85ccbbb365ef730b41f16e.png" group-title="SPAIN TNT ",NOVA ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/793
+#EXTINF:-1 tvg-id="" tvg-name="DIVINITY ES" tvg-logo="http://showflix.org:5890/images/bbb2f50032e8115d0da84d22fff90de6.png" group-title="SPAIN TNT ",DIVINITY ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/794
+#EXTINF:-1 tvg-id="Energy ES" tvg-name="ENERGY ES" tvg-logo="http://showflix.org:5890/images/93e0e13277e4354c72e2b033514037a5.png" group-title="SPAIN TNT ",ENERGY ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/795
+#EXTINF:-1 tvg-id="Clan TVE ES" tvg-name="Clan TVE FHD ES" tvg-logo="http://showflix.org:5890/images/ea0d1869b1048b7fea6220d3b349a5ae.png" group-title="SPAIN TNT ",Clan TVE FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/796
+#EXTINF:-1 tvg-id="Clan TVE ES" tvg-name="Clan TVE ES" tvg-logo="http://showflix.org:5890/images/ea0d1869b1048b7fea6220d3b349a5ae.png" group-title="SPAIN TNT ",Clan TVE ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/797
+#EXTINF:-1 tvg-id="FDF ES" tvg-name="FDF ES" tvg-logo="http://showflix.org:5890/images/a64e483bc16bcccd49b846cad3734731.png" group-title="SPAIN TNT ",FDF ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/798
+#EXTINF:-1 tvg-id="Mega ES" tvg-name="MEGA HD ES" tvg-logo="http://showflix.org:5890/images/f589eafcf087c11af27e475bafb047fa.png" group-title="SPAIN TNT ",MEGA HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/800
+#EXTINF:-1 tvg-id="" tvg-name="Euro News HD ES" tvg-logo="https://rtvc.es/storage/2020/03/HEADER.png" group-title="SPAIN TNT ",Euro News HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/68024
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 8 ES" tvg-logo="http://showflix.org:5890/images/407b85f68a38fe551d80bbf6bdc98c12.png" group-title="SPAIN TNT ",CANAL 8 ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/959
+#EXTINF:-1 tvg-id="" tvg-name="Canal Costa HD ES" tvg-logo="http://showflix.org:5890/images/cc1af3395e9a49eee332ee5fdf5361ac.png" group-title="SPAIN TNT ",Canal Costa HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/957
+#EXTINF:-1 tvg-id="Andalucia TV ES" tvg-name="CANAL SUR 1 HD ES" tvg-logo="http://showflix.org:5890/images/5fd3e922335b45948aa2b1b75a4de517.png" group-title="SPAIN TNT ",CANAL SUR 1 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/802
+#EXTINF:-1 tvg-id="Andalucia TV ES" tvg-name="CANAL SUR A. ES" tvg-logo="http://showflix.org:5890/images/55f118c15920418e7e7088ee3bab9968.png" group-title="SPAIN TNT ",CANAL SUR A. ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/803
+#EXTINF:-1 tvg-id="" tvg-name="Telenovelas ES" tvg-logo="http://showflix.org:5890/images/069059b7ef840f0c74a814ec9237b6ec.png" group-title="SPAIN TNT ",Telenovelas ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/805
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="24 HORAS ES" tvg-logo="http://showflix.org:5890/images/dfe8305dcb942fad819b45d428ff31c1.png" group-title="SPAIN TNT ",24 HORAS ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/812
+#EXTINF:-1 tvg-id="" tvg-name="TVE Internacional ES" tvg-logo="http://showflix.org:5890/images/28d60cee8b25f9c788681e2e100c345f.png" group-title="SPAIN TNT ",TVE Internacional ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/69662
+#EXTINF:-1 tvg-id="" tvg-name="TV3 CAST ES" tvg-logo="http://showflix.org:5890/images/672ddb357b4c7ad1b65984fff445f445.png" group-title="SPAIN TNT ",TV3 CAST ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/69663
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS ES" tvg-logo="http://showflix.org:5890/images/f3f9b83e4d8572f2579585c3adac3072.png" group-title="SPAIN TNT ",FOX NEWS ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/69664
+#EXTINF:-1 tvg-id="" tvg-name="ATRE SERIES HD ES" tvg-logo="http://showflix.org:5890/images/0dff10dce3edc3cfad0c9ad3bb6ac293.png" group-title="SPAIN TNT ",ATRE SERIES HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/799
+#EXTINF:-1 tvg-id="" tvg-name="ARAGON TV ES  " tvg-logo="http://showflix.org:5890/images/cb4f8ee0aa87a787a9f558b8e0268f20.png" group-title="SPAIN TNT ",ARAGON TV ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/806
+#EXTINF:-1 tvg-id="" tvg-name="CANAL ORBE21 ES" tvg-logo="http://showflix.org:5890/images/b42f2759b9dfdc1b9f03b4f0ee082572.png" group-title="SPAIN TNT ",CANAL ORBE21 ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/807
+#EXTINF:-1 tvg-id="TV Galicia ES" tvg-name="TV Galicia ES" tvg-logo="http://i5.satexpat.com/cha/es/galicia-55x54.gif" group-title="SPAIN TNT ",TV Galicia ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/810
+#EXTINF:-1 tvg-id="" tvg-name="TV Galicia 2 ES" tvg-logo="http://i5.satexpat.com/cha/es/galicia-55x54.gif" group-title="SPAIN TNT ",TV Galicia 2 ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/933
+#EXTINF:-1 tvg-id="" tvg-name="BE MAD HD ES" tvg-logo="http://showflix.org:5890/images/d053601beeb16bb284b48ce1866cd25d.png" group-title="SPAIN TNT ",BE MAD HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/811
+#EXTINF:-1 tvg-id="" tvg-name="ETB 1 HD ES" tvg-logo="http://showflix.org:5890/images/11068dc2f77c439cf01669c17790991b.png" group-title="SPAIN TNT ",ETB 1 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/815
+#EXTINF:-1 tvg-id="" tvg-name="ETB 2 HD ES" tvg-logo="http://showflix.org:5890/images/179817dc5da62955458fc95973ff5135.png" group-title="SPAIN TNT ",ETB 2 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/816
+#EXTINF:-1 tvg-id="" tvg-name="TRECE ES" tvg-logo="http://showflix.org:5890/images/0752db9b23892190ac99bd1b2421205d.png" group-title="SPAIN TNT ",TRECE ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/929
+#EXTINF:-1 tvg-id="" tvg-name="TV 7 MURCIA HD ES" tvg-logo="http://showflix.org:5890/images/a8daca5d1007f2ff5a5e818ae76d309f.png" group-title="SPAIN TNT ",TV 7 MURCIA HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/814
+#EXTINF:-1 tvg-id="Number 0 ES" tvg-name="#0 FHD ES" tvg-logo="http://showflix.org:5890/images/2ca59dfd927468c75ddade73a29a8025.png" group-title="SPAIN CINEMA ",#0 FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/820
+#EXTINF:-1 tvg-id="Number 0 ES" tvg-name="#0 ES" tvg-logo="http://showflix.org:5890/images/2ca59dfd927468c75ddade73a29a8025.png" group-title="SPAIN CINEMA ",#0 ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/821
+#EXTINF:-1 tvg-id="AMC ES" tvg-name="AMC FHD ES" tvg-logo="http://showflix.org:5890/images/7c52ed5b8820b7dfd90b5a784bac64b3.png" group-title="SPAIN CINEMA ",AMC FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/822
+#EXTINF:-1 tvg-id="AMC ES" tvg-name="AMC ES" tvg-logo="http://caballerotv.com:5890/images/7c52ed5b8820b7dfd90b5a784bac64b3.png" group-title="SPAIN CINEMA ",AMC ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/823
+#EXTINF:-1 tvg-id="Movistar Accion ES" tvg-name="M.ACCI©N FHD ES" tvg-logo="http://showflix.org:5890/images/251aecd143f47d3f6b6885d5ba187d6a.png" group-title="SPAIN CINEMA ",M.ACCI©N FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/824
+#EXTINF:-1 tvg-id="Movistar Accion ES" tvg-name="M.ACCI©N ES" tvg-logo="http://showflix.org:5890/images/251aecd143f47d3f6b6885d5ba187d6a.png" group-title="SPAIN CINEMA ",M.ACCI©N ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/825
+#EXTINF:-1 tvg-id="Movistar Estrenos ES" tvg-name="M.ESTRENOS FHD ES" tvg-logo="http://showflix.org:5890/images/01d2df095218cb6f05c24a86318311cc.png" group-title="SPAIN CINEMA ",M.ESTRENOS FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/826
+#EXTINF:-1 tvg-id="Movistar Estrenos ES" tvg-name="M.ESTRENOS ES" tvg-logo="http://showflix.org:5890/images/01d2df095218cb6f05c24a86318311cc.png" group-title="SPAIN CINEMA ",M.ESTRENOS ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/827
+#EXTINF:-1 tvg-id="" tvg-name="M.ESTRENOS 2 FHD ES" tvg-logo="http://showflix.org:5890/images/60aa15ed7cb3ee8da821ef721c40259c.png" group-title="SPAIN CINEMA ",M.ESTRENOS 2 FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/92580
+#EXTINF:-1 tvg-id="" tvg-name="M.ESTRENOS 2 ES" tvg-logo="http://showflix.org:5890/images/60aa15ed7cb3ee8da821ef721c40259c.png" group-title="SPAIN CINEMA ",M.ESTRENOS 2 ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/92581
+#EXTINF:-1 tvg-id="Movistar DCine ES" tvg-name="M.Drama FHD ES" tvg-logo="http://showflix.org:5890/images/9f2b8a1cc10ddd038be28542a5037b33.png" group-title="SPAIN CINEMA ",M.Drama FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/828
+#EXTINF:-1 tvg-id="Movistar DCine ES" tvg-name="M.Drama ES" tvg-logo="http://showflix.org:5890/images/9f2b8a1cc10ddd038be28542a5037b33.png" group-title="SPAIN CINEMA ",M.Drama ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/829
+#EXTINF:-1 tvg-id="Movistar Comedia ES" tvg-name="M.COMEDIA FHD ES" tvg-logo="http://showflix.org:5890/images/88fd01a2d7939a88aa4d760273b52464.png" group-title="SPAIN CINEMA ",M.COMEDIA FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/830
+#EXTINF:-1 tvg-id="Movistar Comedia ES" tvg-name="M.COMEDIA ES" tvg-logo="http://showflix.org:5890/images/88fd01a2d7939a88aa4d760273b52464.png" group-title="SPAIN CINEMA ",M.COMEDIA ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/831
+#EXTINF:-1 tvg-id="Movistar Series ES" tvg-name="M.SERIES FHD ES" tvg-logo="http://showflix.org:5890/images/91311e784fe087d031e859b3295b651b.png" group-title="SPAIN CINEMA ",M.SERIES FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/832
+#EXTINF:-1 tvg-id="Movistar Series ES" tvg-name="M.SERIES ES" tvg-logo="http://showflix.org:5890/images/91311e784fe087d031e859b3295b651b.png" group-title="SPAIN CINEMA ",M.SERIES ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/833
+#EXTINF:-1 tvg-id="" tvg-name="M.SERIES 2 FHD ES" tvg-logo="http://showflix.org:5890/images/31afc8d49ad1b4d38641243f53881a81.png" group-title="SPAIN CINEMA ",M.SERIES 2 FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/92582
+#EXTINF:-1 tvg-id="" tvg-name="M.SERIES 2 ES" tvg-logo="http://showflix.org:5890/images/31afc8d49ad1b4d38641243f53881a81.png" group-title="SPAIN CINEMA ",M.SERIES 2 ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/92583
+#EXTINF:-1 tvg-id="Movistar Xtra ES" tvg-name="M.CLASSICOS FHD ES" tvg-logo="http://showflix.org:5890/images/8d5d332d02598bf77c425f36c30c515e.png" group-title="SPAIN CINEMA ",M.CLASSICOS FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/836
+#EXTINF:-1 tvg-id="Movistar Xtra ES" tvg-name="M.CLASSICOS ES" tvg-logo="http://showflix.org:5890/images/8d5d332d02598bf77c425f36c30c515e.png" group-title="SPAIN CINEMA ",M.CLASSICOS ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/837
+#EXTINF:-1 tvg-id="Movistar Cine Espanol ES" tvg-name="M.Cine Espanol ES " tvg-logo="http://showflix.org:5890/images/c82f3fe48c0a8d99fff5c68e1037d179.png" group-title="SPAIN CINEMA ",M.Cine Espanol ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/838
+#EXTINF:-1 tvg-id="AXN ES" tvg-name="AXN FHD ES" tvg-logo="http://showflix.org:5890/images/042dba4d2faaa29cd2fa4c0125416d25.png" group-title="SPAIN CINEMA ",AXN FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/840
+#EXTINF:-1 tvg-id="AXN ES" tvg-name="AXN ES" tvg-logo="http://showflix.org:5890/images/042dba4d2faaa29cd2fa4c0125416d25.png" group-title="SPAIN CINEMA ",AXN ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/841
+#EXTINF:-1 tvg-id="AXN White ES" tvg-name="AXN WHITE FHD ES" tvg-logo="http://showflix.org:5890/images/8c52684db8f49511e9b44471716bf164.png" group-title="SPAIN CINEMA ",AXN WHITE FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/842
+#EXTINF:-1 tvg-id="AXN White ES" tvg-name="AXN WHITE ES" tvg-logo="http://showflix.org:5890/images/8c52684db8f49511e9b44471716bf164.png" group-title="SPAIN CINEMA ",AXN WHITE ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/843
+#EXTINF:-1 tvg-id="FOX ES" tvg-name="FOX FHD ES" tvg-logo="http://showflix.org:5890/images/d89acb3f21a17d5c81aaf588f4b0cd34.png" group-title="SPAIN CINEMA ",FOX FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/844
+#EXTINF:-1 tvg-id="FOX ES" tvg-name="FOX ES" tvg-logo="http://showflix.org:5890/images/d89acb3f21a17d5c81aaf588f4b0cd34.png" group-title="SPAIN CINEMA ",FOX ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/845
+#EXTINF:-1 tvg-id="FOX Life ES" tvg-name="FOX LIFE FHD ES" tvg-logo="http://showflix.org:5890/images/efdb3c93c390728db3200f89a16f3804.png" group-title="SPAIN CINEMA ",FOX LIFE FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/846
+#EXTINF:-1 tvg-id="FOX Life ES" tvg-name="FOX LIFE ES" tvg-logo="http://showflix.org:5890/images/efdb3c93c390728db3200f89a16f3804.png" group-title="SPAIN CINEMA ",FOX LIFE ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/847
+#EXTINF:-1 tvg-id="" tvg-name="COSMO FHD ES" tvg-logo="http://showflix.org:5890/images/ab1f517e7196bff135cefebfceaf8414.png" group-title="SPAIN CINEMA ",COSMO FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/848
+#EXTINF:-1 tvg-id="" tvg-name="COSMO ES" tvg-logo="http://showflix.org:5890/images/ab1f517e7196bff135cefebfceaf8414.png" group-title="SPAIN CINEMA ",COSMO ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/849
+#EXTINF:-1 tvg-id="TNT ES" tvg-name="TNT FHD ES" tvg-logo="http://showflix.org:5890/images/3ed8d415ab1bbac628429a85851e53b6.png" group-title="SPAIN CINEMA ",TNT FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/850
+#EXTINF:-1 tvg-id="TNT ES" tvg-name="TNT ES" tvg-logo="http://showflix.org:5890/images/3ed8d415ab1bbac628429a85851e53b6.png" group-title="SPAIN CINEMA ",TNT ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/851
+#EXTINF:-1 tvg-id="SYFY ES" tvg-name="SYFY FHD ES" tvg-logo="http://showflix.org:5890/images/da080d91bd555c097859b07303a0b17d.png" group-title="SPAIN CINEMA ",SYFY FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/852
+#EXTINF:-1 tvg-id="SYFY ES" tvg-name="SYFY ES" tvg-logo="http://caballerotv.com:5890/images/da080d91bd555c097859b07303a0b17d.png" group-title="SPAIN CINEMA ",SYFY ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/853
+#EXTINF:-1 tvg-id="Calle 13 ES" tvg-name="CALLE 13 FHD ES " tvg-logo="http://showflix.org:5890/images/4bedc849c39c57ac0a10792611cdbd6e.png" group-title="SPAIN CINEMA ",CALLE 13 FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/854
+#EXTINF:-1 tvg-id="Calle 13 ES" tvg-name="CALLE 13 ES  " tvg-logo="http://showflix.org:5890/images/4bedc849c39c57ac0a10792611cdbd6e.png" group-title="SPAIN CINEMA ",CALLE 13 ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/855
+#EXTINF:-1 tvg-id="Sundance ES" tvg-name="SUNDANCE TV ES" tvg-logo="http://showflix.org:5890/images/c92f0744c0fd285d431f5925185c5126.png" group-title="SPAIN CINEMA ",SUNDANCE TV ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/856
+#EXTINF:-1 tvg-id="Hollywood ES" tvg-name="HOLLYWOOD FHD ES" tvg-logo="http://showflix.org:5890/images/aa3b0f6fa80a08e41a163cafe9fea764.png" group-title="SPAIN CINEMA ",HOLLYWOOD FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/857
+#EXTINF:-1 tvg-id="Hollywood ES" tvg-name="HOLLYWOOD ES" tvg-logo="http://showflix.org:5890/images/aa3b0f6fa80a08e41a163cafe9fea764.png" group-title="SPAIN CINEMA ",HOLLYWOOD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/858
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT ES" tvg-logo="http://showflix.org:5890/images/cfa796a0ae9a7bec34309c1bfa7b2926.png" group-title="SPAIN CINEMA ",PARAMOUNT ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/859
+#EXTINF:-1 tvg-id="Comedy Central ES" tvg-name="COMEDY CENTRAL FHD ES" tvg-logo="http://showflix.org:5890/images/1088fbc901dc88b6c18085220cc33de9.png" group-title="SPAIN CINEMA ",COMEDY CENTRAL FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/860
+#EXTINF:-1 tvg-id="Comedy Central ES" tvg-name="COMEDY CENTRAL ES" tvg-logo="http://showflix.org:5890/images/1088fbc901dc88b6c18085220cc33de9.png" group-title="SPAIN CINEMA ",COMEDY CENTRAL ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/861
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD ES" tvg-logo="http://showflix.org:5890/images/a9254defaeee8ed5984a923fe47e5ef8.png" group-title="SPAIN CINEMA ",TCM HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/69666
+#EXTINF:-1 tvg-id="" tvg-name="TCM ES" tvg-logo="http://showflix.org:5890/images/a9254defaeee8ed5984a923fe47e5ef8.png" group-title="SPAIN CINEMA ",TCM ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/70050
+#EXTINF:-1 tvg-id="" tvg-name="DARK TV HD ES" tvg-logo="http://showflix.org:5890/images/acaef50d33fc86532c260a045c672f3e.png" group-title="SPAIN CINEMA ",DARK TV HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/817
+#EXTINF:-1 tvg-id="" tvg-name="SOMOS HD ES" tvg-logo="http://showflix.org:5890/images/911e88ca890b8644065b2430b98aefb9.png" group-title="SPAIN CINEMA ",SOMOS HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/69667
+#EXTINF:-1 tvg-id="Viajar ES" tvg-name="XTRM FHD ES" tvg-logo="http://showflix.org:5890/images/a0da1ae3a1f706340a1fedb40898563c.png" group-title="SPAIN CINEMA ",XTRM FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/919
+#EXTINF:-1 tvg-id="" tvg-name="Rakuten TV HD ES" tvg-logo="http://showflix.org:5890/images/da473cad35b4442e2bc968c37aa54107.png" group-title="SPAIN CINEMA ",Rakuten TV HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/813
+#EXTINF:-1 tvg-id="Movistar Series Xtra ES" tvg-name="Rakuten TV 2 HD ES" tvg-logo="http://showflix.org:5890/images/da473cad35b4442e2bc968c37aa54107.png" group-title="SPAIN CINEMA ",Rakuten TV 2 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/834
+#EXTINF:-1 tvg-id="Movistar Series Xtra ES" tvg-name="Rakuten TV 3 HD ES" tvg-logo="http://showflix.org:5890/images/da473cad35b4442e2bc968c37aa54107.png" group-title="SPAIN CINEMA ",Rakuten TV 3 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/835
+#EXTINF:-1 tvg-id="" tvg-name="MultiDeporte ES" tvg-logo="http://showflix.org:5890/images/bdb5da9f7e2044c1585eb9bf0fa6eeb3.png" group-title="SPAIN SPORT ",MultiDeporte ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/867
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV HD ES" tvg-logo="http://showflix.org:5890/images/1a2f93cc3fcd06c5973fcb4205b96177.png" group-title="SPAIN SPORT ",GOL TV HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/875
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV ES" tvg-logo="http://showflix.org:5890/images/1a2f93cc3fcd06c5973fcb4205b96177.png" group-title="SPAIN SPORT ",GOL TV ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/876
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOS FHD ES " tvg-logo="http://showflix.org:5890/images/f63a1d9780f4bdeb1937feb25368fde5.png" group-title="SPAIN SPORT ",#VAMOS FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/883
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOS ES" tvg-logo="http://showflix.org:5890/images/f63a1d9780f4bdeb1937feb25368fde5.png" group-title="SPAIN SPORT ",#VAMOS ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/884
+#EXTINF:-1 tvg-id="Movistar Deportes 1 ES" tvg-name="Movistar Deportes FHD ES" tvg-logo="http://showflix.org:5890/images/128a38c9e91795ae082131aae87dd3f0.png" group-title="SPAIN SPORT ",Movistar Deportes FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/888
+#EXTINF:-1 tvg-id="Movistar Deportes 1 ES" tvg-name="Movistar Deportes ES" tvg-logo="http://showflix.org:5890/images/128a38c9e91795ae082131aae87dd3f0.png" group-title="SPAIN SPORT ",Movistar Deportes ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/889
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes 1 HD ES" tvg-logo="http://showflix.org:5890/images/f3e738d09f5038ec0f090d6317e85525.png" group-title="SPAIN SPORT ",Movistar Deportes 1 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/69665
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes 2 HD ES" tvg-logo="http://showflix.org:5890/images/447738baeba56c82a2c21edeade8085e.png" group-title="SPAIN SPORT ",Movistar Deportes 2 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/808
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes 3 HD ES" tvg-logo="http://showflix.org:5890/images/a2963501b9e7ae5ae5f409c39f5ec386.png" group-title="SPAIN SPORT ",Movistar Deportes 3 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/809
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes 4 HD ES" tvg-logo="http://showflix.org:5890/images/1520365664040637baf745c96af783d9.png" group-title="SPAIN SPORT ",Movistar Deportes 4 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/92584
+#EXTINF:-1 tvg-id="Movistar Golf ES" tvg-name="Movistar GOLF FHD ES" tvg-logo="http://showflix.org:5890/images/79a7d74137a4dcf3957f7a9157052488.png" group-title="SPAIN SPORT ",Movistar GOLF FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/892
+#EXTINF:-1 tvg-id="Movistar Golf ES" tvg-name="Movistar Golf ES" tvg-logo="http://showflix.org:5890/images/79a7d74137a4dcf3957f7a9157052488.png" group-title="SPAIN SPORT ",Movistar Golf ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/893
+#EXTINF:-1 tvg-id="" tvg-name="La Ligatv bar FHD ES" tvg-logo="http://showflix.org:5890/images/e3c161eff0b4252961259c837df64264.png" group-title="SPAIN SPORT ",La Ligatv bar FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/877
+#EXTINF:-1 tvg-id="" tvg-name="La Ligatv bar ES " tvg-logo="http://showflix.org:5890/images/e3c161eff0b4252961259c837df64264.png" group-title="SPAIN SPORT ",La Ligatv bar ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/878
+#EXTINF:-1 tvg-id="" tvg-name="La Liga TV Bar 1 ES  " tvg-logo="http://showflix.org:5890/images/e3c161eff0b4252961259c837df64264.png" group-title="SPAIN SPORT ",La Liga TV Bar 1 ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/879
+#EXTINF:-1 tvg-id="" tvg-name="La Liga TV Bar 2 ES " tvg-logo="http://showflix.org:5890/images/e3c161eff0b4252961259c837df64264.png" group-title="SPAIN SPORT ",La Liga TV Bar 2 ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/880
+#EXTINF:-1 tvg-id="" tvg-name="La Liga TV Bar 3 ES  " tvg-logo="http://showflix.org:5890/images/e3c161eff0b4252961259c837df64264.png" group-title="SPAIN SPORT ",La Liga TV Bar 3 ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/881
+#EXTINF:-1 tvg-id="" tvg-name="La Liga TV Bar 4 ES  " tvg-logo="http://showflix.org:5890/images/e3c161eff0b4252961259c837df64264.png" group-title="SPAIN SPORT ",La Liga TV Bar 4 ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/882
+#EXTINF:-1 tvg-id="beIN LaLiga ES" tvg-name="Movistar LALIGA FHD ES " tvg-logo="http://showflix.org:5890/images/29404eef4f49bd614e74aa4e27aa363c.png" group-title="SPAIN SPORT ",Movistar LALIGA FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/906
+#EXTINF:-1 tvg-id="beIN LaLiga ES" tvg-name="Movistar LALIGA ES" tvg-logo="http://showflix.org:5890/images/29404eef4f49bd614e74aa4e27aa363c.png" group-title="SPAIN SPORT ",Movistar LALIGA ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/907
+#EXTINF:-1 tvg-id="beIN LaLiga 1 ES" tvg-name="Movistar LaLiga 1 FHD ES " tvg-logo="http://showflix.org:5890/images/1f0cd502410df52ebf22f93172fda512.png" group-title="SPAIN SPORT ",Movistar LaLiga 1 FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/908
+#EXTINF:-1 tvg-id="beIN LaLiga 1 ES" tvg-name="Movistar LALIGA 1 ES" tvg-logo="http://showflix.org:5890/images/1f0cd502410df52ebf22f93172fda512.png" group-title="SPAIN SPORT ",Movistar LALIGA 1 ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/909
+#EXTINF:-1 tvg-id="beIN LaLiga 2 ES" tvg-name="Movistar LALIGA 2 FHD ES" tvg-logo="http://showflix.org:5890/images/89ef2cb79b8a2a8587952b3377c147dc.png" group-title="SPAIN SPORT ",Movistar LALIGA 2 FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/910
+#EXTINF:-1 tvg-id="beIN LaLiga 2 ES" tvg-name="Movistar LALIGA 2 ES " tvg-logo="http://showflix.org:5890/images/89ef2cb79b8a2a8587952b3377c147dc.png" group-title="SPAIN SPORT ",Movistar LALIGA 2 ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/911
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LALIGA 3 FHD ES" tvg-logo="http://showflix.org:5890/images/2a8c65c44862f1ac246cd4b7ada6e21f.png" group-title="SPAIN SPORT ",Movistar LALIGA 3 FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/912
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LALIGA 4 ES" tvg-logo="http://showflix.org:5890/images/a84ef0e53d736b32dad5911513bd4a25.png" group-title="SPAIN SPORT ",Movistar LALIGA 4 ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/913
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LALIGA 5 ES" tvg-logo="http://showflix.org:5890/images/57a1ed5503fdbcfb89fe652ccbb7cf20.png" group-title="SPAIN SPORT ",Movistar LALIGA 5 ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/914
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LALIGA 6 ES" tvg-logo="http://showflix.org:5890/images/a01ad4a591cedea4cc3e3420f60ee42d.png" group-title="SPAIN SPORT ",Movistar LALIGA 6 ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/915
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LALIGA 7 ES" tvg-logo="http://showflix.org:5890/images/d57e2b7b331c604041ae7337feebe440.png" group-title="SPAIN SPORT ",Movistar LALIGA 7 ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/916
+#EXTINF:-1 tvg-id="" tvg-name="Movistar LALIGA 8 ES " tvg-logo="http://showflix.org:5890/images/39b15c903f2681ae39898fa3b1b0fef3.png" group-title="SPAIN SPORT ",Movistar LALIGA 8 ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/917
+#EXTINF:-1 tvg-id="" tvg-name="M.LIGA CAMPEONES FHD ES" tvg-logo="http://showflix.org:5890/images/203f2ca22cd9de1edd31c717e5fbf1a7.png" group-title="SPAIN SPORT ",M.LIGA CAMPEONES FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/58244
+#EXTINF:-1 tvg-id="beIN SPORTS  ES" tvg-name="M.LIGA CAMPEONES ES " tvg-logo="http://showflix.org:5890/images/203f2ca22cd9de1edd31c717e5fbf1a7.png" group-title="SPAIN SPORT ",M.LIGA CAMPEONES ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/895
+#EXTINF:-1 tvg-id="" tvg-name="M.LIGA CAMPEONES1 FHD ES " tvg-logo="http://showflix.org:5890/images/a15c12c446e2d4b6379a3d9ed1d2e519.png" group-title="SPAIN SPORT ",M.LIGA CAMPEONES1 FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/896
+#EXTINF:-1 tvg-id="" tvg-name="M.LIGA CAMPEONES1 ES" tvg-logo="http://showflix.org:5890/images/a15c12c446e2d4b6379a3d9ed1d2e519.png" group-title="SPAIN SPORT ",M.LIGA CAMPEONES1 ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/897
+#EXTINF:-1 tvg-id="" tvg-name="M.LIGA CAMPEONES2 FHD ES" tvg-logo="http://showflix.org:5890/images/c9f07c1ae1e1fa0454e1bb03c8ac47bb.png" group-title="SPAIN SPORT ",M.LIGA CAMPEONES2 FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/898
+#EXTINF:-1 tvg-id="" tvg-name="M.LIGA CAMPEONES2 ES" tvg-logo="http://showflix.org:5890/images/c9f07c1ae1e1fa0454e1bb03c8ac47bb.png" group-title="SPAIN SPORT ",M.LIGA CAMPEONES2 ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/899
+#EXTINF:-1 tvg-id="" tvg-name="M.LIGA CAMPEONES3 ES" tvg-logo="http://showflix.org:5890/images/22a3851b88211008d306197ce9fd8ccb.png" group-title="SPAIN SPORT ",M.LIGA CAMPEONES3 ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/900
+#EXTINF:-1 tvg-id="" tvg-name="M.LIGA CAMPEONES4 ES" tvg-logo="http://showflix.org:5890/images/146276a4d72cd25d485ecd941fc5aaed.png" group-title="SPAIN SPORT ",M.LIGA CAMPEONES4 ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/901
+#EXTINF:-1 tvg-id="" tvg-name="M.LIGA CAMPEONES6 ES " tvg-logo="http://showflix.org:5890/images/991e0a7095373df035d49f092f3e646c.png" group-title="SPAIN SPORT ",M.LIGA CAMPEONES6 ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/903
+#EXTINF:-1 tvg-id="" tvg-name="M.LIGA CAMPEONES5 ES " tvg-logo="http://showflix.org:5890/images/ad5744fc65e5e7808d6a9ad440d038fb.png" group-title="SPAIN SPORT ",M.LIGA CAMPEONES5 ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/902
+#EXTINF:-1 tvg-id="" tvg-name="M.LIGA CAMPEONES7 ES" tvg-logo="http://showflix.org:5890/images/9213bc3e512cae58cedaa5121042c939.png" group-title="SPAIN SPORT ",M.LIGA CAMPEONES7 ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/904
+#EXTINF:-1 tvg-id="" tvg-name="M.LIGA CAMPEONES8 ES" tvg-logo="http://showflix.org:5890/images/e202dd86c6e59e656091ad3728f049e0.png" group-title="SPAIN SPORT ",M.LIGA CAMPEONES8 ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/905
+#EXTINF:-1 tvg-id="Real Madrid TV ES" tvg-name="Real Madrid HD ES" tvg-logo="http://showflix.org:5890/images/af35b21540904fcaa3c049fcfd66b111.png" group-title="SPAIN SPORT ",Real Madrid HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/864
+#EXTINF:-1 tvg-id="Barca TV ES" tvg-name="BARÇA TV ES" tvg-logo="http://showflix.org:5890/images/b72dc4796682210b1ae7485846fd1e8b.png" group-title="SPAIN SPORT ",BARÇA TV ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/866
+#EXTINF:-1 tvg-id="Eurosport 1 ES" tvg-name="EUROSPORT1 FHD ES " tvg-logo="http://showflix.org:5890/images/3e30ce90c5b1d89ae09b7d4c73d8e172.png" group-title="SPAIN SPORT ",EUROSPORT1 FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/868
+#EXTINF:-1 tvg-id="Eurosport 1 ES" tvg-name="EUROSPORT1 ES" tvg-logo="http://showflix.org:5890/images/3e30ce90c5b1d89ae09b7d4c73d8e172.png" group-title="SPAIN SPORT ",EUROSPORT1 ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/869
+#EXTINF:-1 tvg-id="Eurosport 2 ES" tvg-name="EUROSPORT2 ES" tvg-logo="http://showflix.org:5890/images/b1a09d2f3b01fe725a3d60169e214689.png" group-title="SPAIN SPORT ",EUROSPORT2 ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/870
+#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE FHD ES" tvg-logo="http://showflix.org:5890/images/cb3eba804dc69c22e631e9b9712c4e7b.png" group-title="SPAIN SPORT ",TELEDEPORTE FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/871
+#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE ES" tvg-logo="http://showflix.org:5890/images/cb3eba804dc69c22e631e9b9712c4e7b.png" group-title="SPAIN SPORT ",TELEDEPORTE ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/872
+#EXTINF:-1 tvg-id="Toros TV ES" tvg-name="TOROS FHD ES " tvg-logo="http://showflix.org:5890/images/bef212410a9db6fb28a6a301fc8aa8fa.png" group-title="SPAIN SPORT ",TOROS FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/873
+#EXTINF:-1 tvg-id="Toros TV ES" tvg-name="TOROS TV ES" tvg-logo="http://showflix.org:5890/images/bef212410a9db6fb28a6a301fc8aa8fa.png" group-title="SPAIN SPORT ",TOROS TV ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/874
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SPORTS 1 FHD ES" tvg-logo="http://showflix.org:5890/images/856f28a55effdf8a263d7529ededf9d1.png" group-title="SPAIN DAZN SPORTS ",DAZN SPORTS 1 FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/67250
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SPORTS 1 HD ES" tvg-logo="http://showflix.org:5890/images/856f28a55effdf8a263d7529ededf9d1.png" group-title="SPAIN DAZN SPORTS ",DAZN SPORTS 1 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/89969
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SPORTS 2 FHD ES" tvg-logo="http://showflix.org:5890/images/bd297c7aad462282082794067e63a4f0.png" group-title="SPAIN DAZN SPORTS ",DAZN SPORTS 2 FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/862
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SPORTS 2 HD ES" tvg-logo="http://showflix.org:5890/images/bd297c7aad462282082794067e63a4f0.png" group-title="SPAIN DAZN SPORTS ",DAZN SPORTS 2 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/89970
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SPORTS 3 FHD ES" tvg-logo="http://showflix.org:5890/images/02e0d996fc5cf833688024a809bd5b48.png" group-title="SPAIN DAZN SPORTS ",DAZN SPORTS 3 FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/69660
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SPORTS 3 HD ES" tvg-logo="http://showflix.org:5890/images/02e0d996fc5cf833688024a809bd5b48.png" group-title="SPAIN DAZN SPORTS ",DAZN SPORTS 3 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/89971
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SPORTS 4 FHD ES" tvg-logo="http://showflix.org:5890/images/60f059dc1f736afbcfd2fdcf9ed2ebe3.png" group-title="SPAIN DAZN SPORTS ",DAZN SPORTS 4 FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/89972
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SPORTS 4 HD ES" tvg-logo="http://showflix.org:5890/images/60f059dc1f736afbcfd2fdcf9ed2ebe3.png" group-title="SPAIN DAZN SPORTS ",DAZN SPORTS 4 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/89973
+#EXTINF:-1 tvg-id="Movistar Formula 1 ES" tvg-name="DAZN FORMULA 1 FHD ES" tvg-logo="http://showflix.org:5890/images/ee066fe4511987f9347ca589f1c90dcb.png" group-title="SPAIN DAZN SPORTS ",DAZN FORMULA 1 FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/890
+#EXTINF:-1 tvg-id="Movistar Formula 1 ES" tvg-name="DAZN FORMULA 1 ES" tvg-logo="http://showflix.org:5890/images/ee066fe4511987f9347ca589f1c90dcb.png" group-title="SPAIN DAZN SPORTS ",DAZN FORMULA 1 ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/891
+#EXTINF:-1 tvg-id="National Geographic ES" tvg-name="NAT GEO FHD ES" tvg-logo="http://showflix.org:5890/images/cd198e31266cb350285ec583cbfa59c4.png" group-title="SPAIN CULTUR ",NAT GEO FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/923
+#EXTINF:-1 tvg-id="National Geographic ES" tvg-name="NAT GEO ES" tvg-logo="http://showflix.org:5890/images/cd198e31266cb350285ec583cbfa59c4.png" group-title="SPAIN CULTUR ",NAT GEO ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/924
+#EXTINF:-1 tvg-id="Nat Geo Wild ES" tvg-name="NAT GEO WILD FHD ES " tvg-logo="http://showflix.org:5890/images/a394d9f616486007cba9419bc00537bd.png" group-title="SPAIN CULTUR ",NAT GEO WILD FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/925
+#EXTINF:-1 tvg-id="Nat Geo Wild ES" tvg-name="NAT GEO WILD ES " tvg-logo="http://showflix.org:5890/images/a394d9f616486007cba9419bc00537bd.png" group-title="SPAIN CULTUR ",NAT GEO WILD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/926
+#EXTINF:-1 tvg-id="Caza y Pesca ES" tvg-name="CAZA Y PESCA FHD ES" tvg-logo="http://showflix.org:5890/images/357c34317af3397b317d2b4cca2dafec.png" group-title="SPAIN CULTUR ",CAZA Y PESCA FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/921
+#EXTINF:-1 tvg-id="Caza y Pesca ES" tvg-name="CAZA Y PESCA ES" tvg-logo="http://showflix.org:5890/images/357c34317af3397b317d2b4cca2dafec.png" group-title="SPAIN CULTUR ",CAZA Y PESCA ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/922
+#EXTINF:-1 tvg-id="Viajar ES" tvg-name="DMAX ES" tvg-logo="http://showflix.org:5890/images/ff20a31ac03f7b490dce7f040884d64f.png" group-title="SPAIN CULTUR ",DMAX ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/920
+#EXTINF:-1 tvg-id="Canal Cocina ES" tvg-name="Canal Cocina ES " tvg-logo="http://showflix.org:5890/images/b47a41a244db16127967ee7da554e717.png" group-title="SPAIN CULTUR ",Canal Cocina ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/936
+#EXTINF:-1 tvg-id="Historia ES" tvg-name="HISTORIA ES  " tvg-logo="http://showflix.org:5890/images/883f629b9ddb1c7038c82064f3aefd82.png" group-title="SPAIN CULTUR ",HISTORIA ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/927
+#EXTINF:-1 tvg-id="Iberalia TV ES" tvg-name="IBERALIA TV ES " tvg-logo="http://showflix.org:5890/images/3ad3f0ee1043ec2e4e70b0059e83357c.png" group-title="SPAIN CULTUR ",IBERALIA TV ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/928
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature HD ES" tvg-logo="http://showflix.org:5890/images/e30eb4cd5c7b57a642500af3524c43c2.png" group-title="SPAIN CULTUR ",Love Nature HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/167228
+#EXTINF:-1 tvg-id="Crimen e Investigacion ES" tvg-name="CRIMEN+INVES ES" tvg-logo="http://showflix.org:5890/images/fe1c7055e865093c7e98b58c4b4c8353.png" group-title="SPAIN CULTUR ",CRIMEN+INVES ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/930
+#EXTINF:-1 tvg-id="Discovery Channel ES" tvg-name="Discovery Channel ES" tvg-logo="http://showflix.org:5890/images/f3f8600400373910980a32058be68665.png" group-title="SPAIN CULTUR ",Discovery Channel ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/931
+#EXTINF:-1 tvg-id="Odisea ES" tvg-name="Od!sea ES " tvg-logo="http://showflix.org:5890/images/831576acd585fbe847690893b643f0db.png" group-title="SPAIN CULTUR ",Od!sea ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/934
+#EXTINF:-1 tvg-id="" tvg-name="Blaze ES" tvg-logo="http://showflix.org:5890/images/a3bc0d9e66271d9d22c7527cbb0c6375.png" group-title="SPAIN CULTUR ",Blaze ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/932
+#EXTINF:-1 tvg-id="Canal Decasa ES" tvg-name="DECASA ES " tvg-logo="http://showflix.org:5890/images/708b1d32ac5106f75d980139bfa95408.png" group-title="SPAIN CULTUR ",DECASA ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/935
+#EXTINF:-1 tvg-id="" tvg-name="Dkiss ES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/Dkiss.png" group-title="SPAIN CINEMA ",Dkiss ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/70049
+#EXTINF:-1 tvg-id="Movistar Disney ES" tvg-name="Disney + ES" tvg-logo="http://showflix.org:5890/images/1bad25d60dfe8595bd8a435718fa0c1b.png" group-title="SPAIN KIDS ",Disney + ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/839
+#EXTINF:-1 tvg-id="Disney Channel ES" tvg-name="DISNEY CHANNEL FHD ES" tvg-logo="http://showflix.org:5890/images/76b624b3f628be440b5c6755e6593e8b.png" group-title="SPAIN KIDS ",DISNEY CHANNEL FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/938
+#EXTINF:-1 tvg-id="Disney Channel ES" tvg-name="DISNEY CHANNEL ES " tvg-logo="http://showflix.org:5890/images/76b624b3f628be440b5c6755e6593e8b.png" group-title="SPAIN KIDS ",DISNEY CHANNEL ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/939
+#EXTINF:-1 tvg-id="Disney Junior ES" tvg-name="DISNEY JR ES  " tvg-logo="http://showflix.org:5890/images/fb32667ae6c46352798f782345c2f6b1.png" group-title="SPAIN KIDS ",DISNEY JR ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/940
+#EXTINF:-1 tvg-id="Nickelodeon ES" tvg-name="NICKELODEON FHD ES " tvg-logo="http://showflix.org:5890/images/18cd0f82df88a84387a999970d042055.png" group-title="SPAIN KIDS ",NICKELODEON FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/942
+#EXTINF:-1 tvg-id="Nickelodeon ES" tvg-name="NICKELODEON ES" tvg-logo="http://showflix.org:5890/images/18cd0f82df88a84387a999970d042055.png" group-title="SPAIN KIDS ",NICKELODEON ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/943
+#EXTINF:-1 tvg-id="" tvg-name="Dream Work FHD ES" tvg-logo="http://showflix.org:5890/images/d62a00de94c10095c8382a1af0aeebd9.png" group-title="SPAIN KIDS ",Dream Work FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/98215
+#EXTINF:-1 tvg-id="Canal Panda ES" tvg-name="Panda ES " tvg-logo="http://showflix.org:5890/images/bafa1c202f2da4fd1a08aa143848cbbc.png" group-title="SPAIN KIDS ",Panda ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/944
+#EXTINF:-1 tvg-id="Boing ES" tvg-name="BOING ES " tvg-logo="http://showflix.org:5890/images/a325c585ca959cab6adcdbb12de7ae28.png" group-title="SPAIN KIDS ",BOING ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/945
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV ES" tvg-logo="http://showflix.org:5890/images/327a8990cfd52566895bb419970de0d2.png" group-title="SPAIN KIDS ",BABY TV ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/70051
+#EXTINF:-1 tvg-id="" tvg-name="M. Fest HD ES" tvg-logo="http://showflix.org:5890/images/9ee591a4f7c3f1363aabf509b20ec476.png" group-title="SPAIN MUSIC ",M. Fest HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/98152
+#EXTINF:-1 tvg-id="MTV ES" tvg-name="MTV ESPA¹A ES " tvg-logo="http://showflix.org:5890/images/16723beed24f308a7adfa6948945edab.png" group-title="SPAIN MUSIC ",MTV ESPA¹A ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/947
+#EXTINF:-1 tvg-id="" tvg-name="CLASSICA ES" tvg-logo="http://showflix.org:5890/images/47413d4ea196161bf3aaa12285098c4e.png" group-title="SPAIN MUSIC ",CLASSICA ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/804
+#EXTINF:-1 tvg-id="Mezzo ES" tvg-name="MEZZO ES " tvg-logo="http://showflix.org:5890/images/d61203c570e64ddaf37917e7eed9c7c0.png" group-title="SPAIN MUSIC ",MEZZO ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/949
+#EXTINF:-1 tvg-id="Mezzo Live HD ES" tvg-name="MEZZO LIVE FHD ES " tvg-logo="http://showflix.org:5890/images/a5c6b4a73c36671d056535f5a81edb4f.png" group-title="SPAIN MUSIC ",MEZZO LIVE FHD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/948
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 1 HD ES" tvg-logo="http://showflix.org:5890/images/a7c52841908de9ab6cd7895df30821cf.png" group-title="SPAIN ALQUILER ",ALQUILER 1 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/78993
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 2 HD ES" tvg-logo="http://showflix.org:5890/images/a7c52841908de9ab6cd7895df30821cf.png" group-title="SPAIN ALQUILER ",ALQUILER 2 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/78994
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 3 HD ES" tvg-logo="http://showflix.org:5890/images/a7c52841908de9ab6cd7895df30821cf.png" group-title="SPAIN ALQUILER ",ALQUILER 3 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/78995
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 4 HD ES " tvg-logo="http://showflix.org:5890/images/a7c52841908de9ab6cd7895df30821cf.png" group-title="SPAIN ALQUILER ",ALQUILER 4 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/78996
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 5 HD ES" tvg-logo="http://showflix.org:5890/images/a7c52841908de9ab6cd7895df30821cf.png" group-title="SPAIN ALQUILER ",ALQUILER 5 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/78997
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 6 HD ES" tvg-logo="http://showflix.org:5890/images/a7c52841908de9ab6cd7895df30821cf.png" group-title="SPAIN ALQUILER ",ALQUILER 6 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/956
+#EXTINF:-1 tvg-id="" tvg-name="CINE 1 HD ES" tvg-logo="http://showflix.org:5890/images/509d7e534b54cd2b453e45850261de61.png" group-title="SPAIN CINEMA | 24/7",CINE 1 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/133508
+#EXTINF:-1 tvg-id="" tvg-name="CINE 2 HD ES" tvg-logo="http://showflix.org:5890/images/509d7e534b54cd2b453e45850261de61.png" group-title="SPAIN CINEMA | 24/7",CINE 2 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/133509
+#EXTINF:-1 tvg-id="" tvg-name="CINE 3 HD ES" tvg-logo="http://showflix.org:5890/images/509d7e534b54cd2b453e45850261de61.png" group-title="SPAIN CINEMA | 24/7",CINE 3 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/133510
+#EXTINF:-1 tvg-id="" tvg-name="CINE 4 HD ES" tvg-logo="http://showflix.org:5890/images/509d7e534b54cd2b453e45850261de61.png" group-title="SPAIN CINEMA | 24/7",CINE 4 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/133496
+#EXTINF:-1 tvg-id="" tvg-name="CINE 5 HD ES" tvg-logo="http://showflix.org:5890/images/509d7e534b54cd2b453e45850261de61.png" group-title="SPAIN CINEMA | 24/7",CINE 5 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/133511
+#EXTINF:-1 tvg-id="" tvg-name="CINE 6 HD ES" tvg-logo="http://showflix.org:5890/images/509d7e534b54cd2b453e45850261de61.png" group-title="SPAIN CINEMA | 24/7",CINE 6 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/133512
+#EXTINF:-1 tvg-id="" tvg-name="CINE 7 HD ES" tvg-logo="http://showflix.org:5890/images/509d7e534b54cd2b453e45850261de61.png" group-title="SPAIN CINEMA | 24/7",CINE 7 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/133513
+#EXTINF:-1 tvg-id="" tvg-name="CINE 8 HD ES" tvg-logo="http://showflix.org:5890/images/509d7e534b54cd2b453e45850261de61.png" group-title="SPAIN CINEMA | 24/7",CINE 8 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/133497
+#EXTINF:-1 tvg-id="" tvg-name="CINE 9 HD ES" tvg-logo="http://showflix.org:5890/images/509d7e534b54cd2b453e45850261de61.png" group-title="SPAIN CINEMA | 24/7",CINE 9 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/133498
+#EXTINF:-1 tvg-id="" tvg-name="CINE 10 HD ES" tvg-logo="http://showflix.org:5890/images/509d7e534b54cd2b453e45850261de61.png" group-title="SPAIN CINEMA | 24/7",CINE 10 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/133499
+#EXTINF:-1 tvg-id="" tvg-name="CINE 11 HD ES" tvg-logo="http://showflix.org:5890/images/509d7e534b54cd2b453e45850261de61.png" group-title="SPAIN CINEMA | 24/7",CINE 11 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/133500
+#EXTINF:-1 tvg-id="" tvg-name="CINE 12 HD ES" tvg-logo="http://showflix.org:5890/images/509d7e534b54cd2b453e45850261de61.png" group-title="SPAIN CINEMA | 24/7",CINE 12 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/133501
+#EXTINF:-1 tvg-id="" tvg-name="CINE 13 HD ES" tvg-logo="http://showflix.org:5890/images/509d7e534b54cd2b453e45850261de61.png" group-title="SPAIN CINEMA | 24/7",CINE 13 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/133502
+#EXTINF:-1 tvg-id="" tvg-name="CINE 14 HD ES" tvg-logo="http://showflix.org:5890/images/509d7e534b54cd2b453e45850261de61.png" group-title="SPAIN CINEMA | 24/7",CINE 14 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/133503
+#EXTINF:-1 tvg-id="" tvg-name="CINE 15 HD ES" tvg-logo="http://showflix.org:5890/images/509d7e534b54cd2b453e45850261de61.png" group-title="SPAIN CINEMA | 24/7",CINE 15 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/133504
+#EXTINF:-1 tvg-id="" tvg-name="CINE 16 HD ES" tvg-logo="http://showflix.org:5890/images/509d7e534b54cd2b453e45850261de61.png" group-title="SPAIN CINEMA | 24/7",CINE 16 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/133505
+#EXTINF:-1 tvg-id="" tvg-name="CINE 17 HD ES" tvg-logo="http://showflix.org:5890/images/509d7e534b54cd2b453e45850261de61.png" group-title="SPAIN CINEMA | 24/7",CINE 17 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/133506
+#EXTINF:-1 tvg-id="" tvg-name="CINE 18 HD ES" tvg-logo="http://showflix.org:5890/images/509d7e534b54cd2b453e45850261de61.png" group-title="SPAIN CINEMA | 24/7",CINE 18 HD ES
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/133507
+#EXTINF:-1 tvg-id="" tvg-name="----PORTUGAL Full ----" tvg-logo="https://imgur.com/YGj09OV.png" group-title="",----PORTUGAL Full ----
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/1017
+#EXTINF:-1 tvg-id="RTP 1 PT" tvg-name="RTP1 FHD PT" tvg-logo="http://showflix.org:5890/images/c766e112de79c244fdaed0ed34ca5e12.png" group-title="PORTUGAL",RTP1 FHD PT
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/1018
+#EXTINF:-1 tvg-id="RTP 1 PT" tvg-name="RTP 1 PT" tvg-logo="http://showflix.org:5890/images/c766e112de79c244fdaed0ed34ca5e12.png" group-title="PORTUGAL",RTP 1 PT
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/1019
+#EXTINF:-1 tvg-id="RTP 2 PT" tvg-name="RTP2 FHD PT" tvg-logo="http://showflix.org:5890/images/2114f31417ee846151c125b40fac74d1.png" group-title="PORTUGAL",RTP2 FHD PT
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/1020
+#EXTINF:-1 tvg-id="RTP 2 PT" tvg-name="RTP 2 PT" tvg-logo="http://showflix.org:5890/images/2114f31417ee846151c125b40fac74d1.png" group-title="PORTUGAL",RTP 2 PT
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/1021
+#EXTINF:-1 tvg-id="RTP 3 PT" tvg-name="RTP 3 HD PT " tvg-logo="http://showflix.org:5890/images/872d6314511bb18a44539b284386f7ec.png" group-title="PORTUGAL",RTP 3 HD PT
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/1022
+#EXTINF:-1 tvg-id="RTP Memoria PT" tvg-name="RTP MEMORIA PT" tvg-logo="http://showflix.org:5890/images/ce4caf42f5fe5583a4daa56470927511.png" group-title="PORTUGAL",RTP MEMORIA PT
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/1023
+#EXTINF:-1 tvg-id="RTP Madeira PT" tvg-name="RTP MADEIRA PT" tvg-logo="data:image/png;base64,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" group-title="PORTUGAL",RTP MADEIRA PT
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/1024
+#EXTINF:-1 tvg-id="RTP Africa PT" tvg-name="RTP AFRICA PT" tvg-logo="http://showflix.org:5890/images/8c067dbe8a7c2f47a349d963b4ee8755.png" group-title="PORTUGAL",RTP AFRICA PT
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/1025
+#EXTINF:-1 tvg-id="RTP Acores PT" tvg-name="RTP ACORES PT" tvg-logo="http://showflix.org:5890/images/9e818d9bef5a5c478d16547059be3182.png" group-title="PORTUGAL",RTP ACORES PT
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/1026
+#EXTINF:-1 tvg-id="RTP Internacional PT" tvg-name="RTP Informacional PT" tvg-logo="http://showflix.org:5890/images/62933a2951ef01f4eafd9bdf4d3cd2f0.png" group-title="PORTUGAL",RTP Informacional PT
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/1027
+#EXTINF:-1 tvg-id="TVI 24 PT" tvg-name="TVI24 PT" tvg-logo="http://showflix.org:5890/images/56b0c477a75ceb86113c727357e0c2a0.png" group-title="PORTUGAL",TVI24 PT
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/1028
+#EXTINF:-1 tvg-id="TVI PT" tvg-name="TVI FHD PT" tvg-logo="http://showflix.org:5890/images/90fddc625c5409337390d7e4c5fc4c8b.png" group-title="PORTUGAL",TVI FHD PT
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/1029
+#EXTINF:-1 tvg-id="TVI PT" tvg-name="TVI PT" tvg-logo="http://showflix.org:5890/images/90fddc625c5409337390d7e4c5fc4c8b.png" group-title="PORTUGAL",TVI PT
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/1030
+#EXTINF:-1 tvg-id="TVI Ficcao PT" tvg-name="TVI FICCAO PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvi-ficcao.png" group-title="PORTUGAL",TVI FICCAO PT
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/1031
+#EXTINF:-1 tvg-id="TVI Reality PT" tvg-name="TVI Reality HD PT" tvg-logo="http://showflix.org:5890/images/8cf224053f059e2e970cc412589f876e.png" group-title="PORTUGAL",TVI Reality HD PT
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/1032
+#EXTINF:-1 tvg-id="CMTV PT" tvg-name="CMTV HD PT" tvg-logo="http://showflix.org:5890/images/600f53f60bd4982fe275b8396c31d8b7.png" group-title="PORTUGAL",CMTV HD PT
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/1033
+#EXTINF:-1 tvg-id="SIC PT" tvg-name="SIC HD PT" tvg-logo="http://showflix.org:5890/images/3bf35658720f1c5ba50c36512e055d3c.png" group-title="PORTUGAL",SIC HD PT
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/1034
+#EXTINF:-1 tvg-id="SIC PT" tvg-name="SIC PT" tvg-logo="http://showflix.org:5890/images/3bf35658720f1c5ba50c36512e055d3c.png" group-title="PORTUGAL",SIC PT
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/1035
+#EXTINF:-1 tvg-id="SIC Kids PT" tvg-name="SIC K PT " tvg-logo="" group-title="PORTUGAL KIDS ",SIC K PT
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/1036
+#EXTINF:-1 tvg-id="SIC Radical PT" tvg-name="SIC RADICAL FHD PT " tvg-logo="http://showflix.org:5890/images/e71c4ded6f47f50a4aa9de0405e9f52d.png" group-title="PORTUGAL",SIC RADICAL FHD PT
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/1037
+#EXTINF:-1 tvg-id="SIC Noticias PT" tvg-name="SIC NOTICIAS FHD PT" tvg-logo="http://showflix.org:5890/images/be883099811ac033c35d119586a6a593.png" group-title="PORTUGAL",SIC NOTICIAS FHD PT
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/1038
+#EXTINF:-1 tvg-id="SIC Mulher PT" tvg-name="SIC MULHER FHD PT" tvg-logo="http://showflix.org:5890/images/33ac6cf0018d15dae902f58fee64b927.png" group-title="PORTUGAL",SIC MULHER FHD PT
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/1039
+#EXTINF:-1 tvg-id="" tvg-name="--PT | Cinema --" tvg-logo="" group-title="",--PT | Cinema --
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/1098
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="TVCine TOP FHD PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvcine-top-hd.png" group-title="PORTUGAL CINEMA ",TVCine TOP FHD PT
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/1099
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="TVCINE TOP PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvcine-top-hd.png" group-title="PORTUGAL CINEMA ",TVCINE TOP PT
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/1100
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="TVCINE Edition FHD PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvcine-edition-hd.png" group-title="PORTUGAL CINEMA ",TVCINE Edition FHD PT
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/1101
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="TV CINE Edition PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvcine-edition-hd.png" group-title="PORTUGAL CINEMA ",TV CINE Edition PT
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/1102
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="TVCine Emotion FHD PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvcine-emotion-hd.png" group-title="PORTUGAL CINEMA ",TVCine Emotion FHD PT
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/1103
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="TVCINE Emotion PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvcine-emotion-hd.png" group-title="PORTUGAL CINEMA ",TVCINE Emotion PT
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/1104
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="TVCine Action HD PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvcine-action-hd.png" group-title="PORTUGAL CINEMA ",TVCine Action HD PT
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/1105
+#EXTINF:-1 tvg-id="Brazzers TV Adult" tvg-name="TVCine Action PT" tvg-logo="https://www.meo.pt/PublishingImages/canais/tvcine-action-hd.png" group-title="PORTUGAL CINEMA ",TVCine Action PT
+http://showflix.org:5890/jamalive:iptvfit/fioCqkblmh/1106
